@@ -1,2 +1,2 @@
-# demo-proect
+# demo-project
 First git repository
