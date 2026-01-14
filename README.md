@@ -1,3 +1,4 @@
 # demo-project
-First git repository
-Authir- Subodh Singh
+First git repository.
+<br>
+Author- Subodh Singh
